@@ -1,0 +1,24 @@
+PODS:
+  - SimpleCheckbox (2.1.0)
+  - TinyConstraints (4.0.1)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - SimpleCheckbox
+  - TinyConstraints
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  trunk:
+    - SimpleCheckbox
+    - TinyConstraints
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  SimpleCheckbox: ddcd433ab8c3a8f57300bebda13151a8f302c7f9
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: 5a3ea512abc4a089e92680ea5660fb3efbe4bd14
+
+COCOAPODS: 1.9.3

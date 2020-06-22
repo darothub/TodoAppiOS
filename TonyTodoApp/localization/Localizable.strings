@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TonyTodoApp
+
+  Created by Darot on 22/06/2020.
+  Copyright © 2020 Decagon. All rights reserved.
+*/
+
+"task" = "Tasks";
+"list" = "Lists";
+"add" = "Add";
+"addlist" = "Add List";
